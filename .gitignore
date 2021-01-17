@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Amazon/DesignTimeBuild
+/.vs/Amazon/v16
+/.vs
+/Arrays/obj
+/Searching/obj
+/Arrays/Arrays.csproj.user
